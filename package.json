@@ -1,0 +1,25 @@
+{
+  "name": "system-details-extension",
+  "version": "1.0.0",
+  "description": "this is a simple extension which gives the information about the laptop in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumukha-Nagaraj-Sureban/System-Dashboard-Extension.git"
+  },
+  "keywords": [
+    "system"
+  ],
+  "author": "Sumukha Sureban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumukha-Nagaraj-Sureban/System-Dashboard-Extension/issues"
+  },
+  "homepage": "https://github.com/Sumukha-Nagaraj-Sureban/System-Dashboard-Extension#readme",
+  "dependencies": {
+    "systeminformation": "^5.22.0"
+  }
+}
